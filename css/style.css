@@ -1988,7 +1988,7 @@ section.about{
 
 .sidebar .category-widget ul li span {
     display: inline-block;
-    float: right;
+    /* float: right; */
 }
 
 .sidebar .sidebar-widget .tag-widget {
